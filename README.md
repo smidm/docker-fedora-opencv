@@ -8,9 +8,9 @@ Build and Test Docker Container
 Tested Versions
 ---------------
 
-Fedora  OpenCV
-------  ------
-24      3.1.0
-24      2.4.13
+|Fedora | OpenCV
+|------ | ------
+|24     | 3.1.0
+|24     | 2.4.13
 
 
